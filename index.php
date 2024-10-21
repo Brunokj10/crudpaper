@@ -1,17 +1,10 @@
 <?php
-/**
- * CRUD Teste para Essentia Pharma
- *
- * @category    CRUD
- * @package     crud
- * @copyright  Copyright (c) 2018 Mario SAM (http://www.mariosam.com.br)
- * @license    http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
- */
+
 ?>
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-    <title>Modelo de CRUD para Essentia Pharma</title>
+    <title>Modelo de CRUD</title>
     <link rel="stylesheet" type="text/css" href="styles.css" async>
     <script src="scripts.js"></script>
 </head>
@@ -45,6 +38,6 @@
 <div id="lista">
     <script type="text/javascript">carregarLista();</script>
 </div>
-<p class="rodape">coded by <a href="http://mariosam.com.br/">Mario SAM</a>!</p>
+<p class="rodape">Coded by <a href="https://github.com/Brunokj10/">Bruno, Cristian and Nicolas </a>!</p>
 </body>
 </html>
